@@ -1,0 +1,32 @@
+html, body {
+	margin:0px;
+	padding:0;
+	height:100%;
+}
+
+#wrapper {
+	min-height:100%;
+	position:relative;
+}
+
+#content {
+    padding-top:70px;
+	padding-bottom:230px; /* Height of the footer element */
+    padding-right:200px;
+    padding-left:200px;
+}
+
+#footer {
+	background:#080E25;
+    color:#ccc;
+	width:100%;
+	height:430px;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
+
+p{
+   font: 18px Calibri;
+   color:#4e4e4e;
+}

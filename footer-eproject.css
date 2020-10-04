@@ -1,0 +1,23 @@
+table{
+  margin-right:200%;
+  padding-left:100px;
+  text-decoration:none;
+  font:12px Arial;
+}
+
+td{
+  text-decoration:none;
+  padding-top:20px;
+  padding-left:200px;
+  
+}
+
+a{ 
+  color:#fff;
+  text-decoration:none; 
+}
+
+a:hover { 
+  color:#07A67E;
+  text-decoration:none; 
+}

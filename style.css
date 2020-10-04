@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+input.MyButton {
+width: 150px;
+height: 200px;
+padding: 20px;
+font-weight: bold;
+font-size: 15px;
+white-space: normal;
+background: #07A67E;
+color: #080E25;
+cursor: pointer;
+border: 1px solid #999999;
+border-radius: 10px;
+-webkit-box-shadow: 6px 6px 5px #999999;
+box-shaddow: 6px 6px 5px; #999999;
+}
+input.MyButton:hover {
+color: #FFFFFF;
+background: #059eac;
+border: 1px solid #A3A3A3;
+-webkit-box-shadow: 2px 2px 5px #3366CC;
+box-shaddow: 2px 2px 5px; ##3366CC;
+}
+
+#07A67E
+#9df2d2
+#059eac
